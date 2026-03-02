@@ -1,0 +1,21 @@
+WDD 330 – Group Project
+Project Name: SleepOutside
+
+-----------------------------------------
+Team Members:
+-----------------------------------------
+
+
+
+-----------------------------------------
+Trello Board:
+https://trello.com/invite/b/69a5ee54678d962aad1298ce/ATTIfa956012c479b03d8e81eeee3aca50861A93A812/wdd-330
+
+-----------------------------------------
+Render URL:
+https://wdd-330-sleepoutside-uxx4.onrender.com
+
+-----------------------------------------
+Project Description:
+-----------------------------------------
+This project was developed as part of the WDD 330 course.
